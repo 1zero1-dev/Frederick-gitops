@@ -37,6 +37,6 @@ team_settings:
 software:
   packages:
     - path: ../lib/macos/software/zoom.yml
-    selfservice: true
-    setup_experience: true
+      selfservice: true
+      setup_experience: true
     
