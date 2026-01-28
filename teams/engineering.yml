@@ -30,7 +30,7 @@ controls:
     
 team_settings:
   webhook_settings:
-    failling_policies_webhook:
+    failing_policies_webhook:
       enable_failing_policies_webhook: true
       destination_url: https://catoftheday.comm
       host_batch_size: 0
