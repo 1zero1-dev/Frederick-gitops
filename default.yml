@@ -22,8 +22,8 @@ org_settings:
     org_name: 1zero1 Labs
   webhook_settings:
     activiteis_webhook:
-     enabled_activities_webhook: true
-     destination_url: https://imthebest.org
+      enabled_activities_webhook: true
+      destination_url: https://imthebest.org
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
