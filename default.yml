@@ -22,7 +22,7 @@ org_settings:
     org_name: 1zero1 Labs
   webhook_settings:
     enabled_activities_webhook: true
-    destination_url: https://catofthedat.com
+    destination_url: https://catoftheday.com
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
